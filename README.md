@@ -16,3 +16,5 @@ Checks that the script is running as root, if not it will ask for permissions
                                  NPM,
                                  Apache Cordova and
                                  Ionic Framework,
+
+* Install_google_chrome.sh : Downloads and install google chrome browser
